@@ -40,3 +40,7 @@ Troubleshooting
 * If you get an error / random dumps then problem might be with pins aren't properly installed and in the board. (Soldering them is recomended for heavy use)
 * If the arduino does not seem to be responding commands try reflashing or change the RX pin in code and hardware.
 * if the electronic components of toy car isnt working then try checking the power at jumper pin ends to ensure the required voltage for motors.(if you can use a relay module to regulate power).
+
+Improvements / Updates
+-----------------------
+If anyone is intrested in improving the fucnctnality or the options you're most welcome to push your approch to this repository. 
