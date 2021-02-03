@@ -25,6 +25,10 @@ Steps to setup the car
 3) Setup a common port for debugging purposes (you can put a common pins on bread board and connect with a OBD-II Jack)
 
 #
+* You will be needed to push messages from attackers serial monitor.
+* You can view the traffic from any of the carnodes serial monitoe.
+NOTE - YOu would be needed to open atleast one carsnode serial monitor + attackers serial monitor to play.
+#
 Make sure you have all the libraries installed and The hardcoded arbitration ID's in the .ino files can be changed and you can create multiple carnodes according to usage. same code with changes in id and functions needs to be done. 
 #
 Usage
