@@ -43,4 +43,5 @@ Troubleshooting
 
 Improvements / Updates
 -----------------------
-If anyone is intrested in improving the fucnctnality or the options you're most welcome to push your approch to this repository. 
+- Working on live wiring pictures...
+- If anyone is intrested in improving the fucnctnality or the options you're most welcome to push your approch to this repository. 
